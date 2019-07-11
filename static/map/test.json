@@ -1,0 +1,8 @@
+[
+        {"imgUrl" : 1, "foodName" : "红烧排骨" , "monthlySales" : 23 , "happy" : "90%" , "foodMoney" : 12, "shopNmae" : "1号店"},
+        {"imgUrl" : 2, "foodName" : "清蒸鱼汤" , "monthlySales" : 12 , "happy" : "90%" , "foodMoney" : 12, "shopNmae" : "2号店"},
+        {"imgUrl" : 3, "foodName" : "麻婆豆腐" , "monthlySales" : 41 , "happy" : "90%" , "foodMoney" : 12, "shopNmae" : "3号店"},
+        {"imgUrl" : 4, "foodName" : "山鸡丁儿" , "monthlySales" : 53 , "happy" : "90%" , "foodMoney" : 12 ,"shopNmae" : "4号店"},
+        {"imgUrl" : 5, "foodName" : "辣椒炒肉" , "monthlySales" : 55 , "happy" : "90%" , "foodMoney" : 12 ,"shopNmae" : "5号店"},
+        {"imgUrl" : 6, "foodName" : "蛤蟆鱼子" , "monthlySales" : 84 , "happy" : "90%" , "foodMoney" : 12, "shopNmae" : "6号店"}
+]
